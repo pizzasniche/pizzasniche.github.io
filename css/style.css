@@ -7912,7 +7912,7 @@ h1, h2, h3, h4, h5,
     -ms-border-radius: 50%;
     border-radius: 50%; }
   .pricing-entry .desc {
-    width: calc(100% - 60px); }
+    width: calc(100%); } /* width: calc(100% - 60px); } */
     .pricing-entry .desc p {
       margin-bottom: 0; }
   .pricing-entry .text {
